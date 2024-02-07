@@ -126,7 +126,7 @@ function Taskform() {
         name='priority'
         />
         <label className="form-check-label" htmlFor="priority">
-          Zorunlu Ders
+          Zorunlu ders
         </label>
       </div>
     </div>
